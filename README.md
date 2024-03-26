@@ -28,6 +28,16 @@ Berikut ini adalah pengalaman saya setelah mengikuti program IDCamp 2023 ini.
 
 Dalam materi ini, saya mempelajari dasar bagaimana cara memvisualisasi Data dalam bentuk Diagram, dokumentasi Data, cara bercerita dengan Data dan transformasi Data dengan menggunakan Spread Sheets serta dasar dasar penggunaan google sheets. 
 
-[!Sertifikat Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/6RPN41LOQX2M)
+[Sertifikat Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/6RPN41LOQX2M)
+
+### 2. Memulai Pemrograman dengan Python
+
+Materi ini menjelaskan tentang bahasa pemrograman Phyton dari dasar, mulai jenis data, jenis operator, jenis ekspresi, melakukan control flow, pemrosesan array, operasi pada matriks, subprogram, konsep Object Oriented Programming dan pengenalan Library populer pada Python.
+
+[Sertifikat Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/GRX52J4G3X0M)
+
+
+
+
 
 
