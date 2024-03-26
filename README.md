@@ -36,6 +36,19 @@ Materi ini menjelaskan tentang bahasa pemrograman Phyton dari dasar, mulai jenis
 
 [Sertifikat Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/GRX52J4G3X0M)
 
+### 3. Belajar Machine Learning untuk Pemula
+
+Pada materi ini dijelaskan dasar dasar Machine Learning seperti:
+1. Penjelasan Supervised dan Unsupervised Learning beserta contoh algoritma seperti Linear Regression, Logistic Regression, Decission Tree, K-Means Clustering
+2. Penjelasan tentang Support Vector Machine (SVM) serta jenis nya yaitu Support Vector Machine Classifier, dan Support Vector Regresion
+3. Penjelasan Dasar Machine Learning, seperti Machine Learning Workflow, Overfitting dan Underfitting, Model Selection, Teknik Grid Search CV, serta Penambahan dan Pengurangan Fitur
+4. Penjelasan Nueral Network serta jenisnya seperti Artificial Neural Network, Multi Layer Percepton, dan Convolutional Neural Network
+5. Penjelasan tentang Tensorflow beserta dengan Keras Library, Latihan membuat model klasifikasi gambar, dan deployment serta feedback.
+
+Pada materi ini terdapat final submission
+
+
+
 
 
 
