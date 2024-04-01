@@ -45,8 +45,30 @@ Pada materi ini dijelaskan dasar dasar Machine Learning seperti:
 4. Penjelasan Nueral Network serta jenisnya seperti Artificial Neural Network, Multi Layer Percepton, dan Convolutional Neural Network
 5. Penjelasan tentang Tensorflow beserta dengan Keras Library, Latihan membuat model klasifikasi gambar, dan deployment serta feedback.
 
-Pada materi ini terdapat final submission
+Pada materi ini terdapat final submission berupa pembuatan model Convolutiunal Neural Network (CNN) sederhana dengan dataset Gambar Gunting, Batu, Kertas yang disediakan oleh pihak Dicoding.
+Dengan syarat sebegai berikut:
+- Model akurasi diatas 85%
+- Menggunakan lebih dari 1 hidden layer
+- Menerapkan lebih banyak augmentasi gambar
+- Anda menggunakan optimizer dan loss-function yang tidak diajarkan di kelas
 
+Hasil submission saya untuk kelas ini terdapat pada link berikut: [Submission Belajar Machine Learning untuk Pemula](https://github.com/Rizki-Kidut/-ID-Camp-Machine-Learning-Developer-Project/blob/26402a24f34eb4266f2215afb91453b8bd362bf0/Belajar%20Machine%20Learning%20untuk%20Pemula/Rizki_Hidayat_Tugas_Akhir_Machine_Learning.ipynb)
+
+Hasil submission saya adalah sebagai berikut:
+- Model akurasi diatas 97%
+- Menggunakan 4 layer Conv2D dan MaxPooling Layer
+- Menggunakan 2 hidden layer Dropout layer dan Dense Layer
+- Menggunakan 3 teknik yang tidak diajarkan di kelas yaitu teknik Split Folder, Callback, dan Keras plot model
+
+Dengan hasil tersebut submission saya mendapat nilai bintang 5 dari Dicoding sesuai [hasil review](https://www.dicoding.com/academysubmissions/2352878), dan terpilih menjadi salah satu peserta pada Kelas Intermeddiate
+
+### 4. Belajar Pengembangan Machine Learning
+
+Pada materi ini diajarkan pengembangan Machine Learning seperti:
+1. Penjelasan tentang Problem Framing, Pola pikir Machine Learning, Perumusan masalah dalam Machine Learning dan Memutuskan solusi dalam Machine Learning
+2. Penjelasan tentang Pembuatan Model Neural Network dengan library Tensorflow dan Keras, seperti proses pra-pemrosesan data utuk model, membuat dan melatih model, Pencegahan Overfitting dan Underfitting pada model, dan cara penggunaan call backs.
+3. Penjelasan dasar tentang Sistem Rekomendasi, seperti Pengenalan Sistem Rekomendasi, Collaborative Filtering dan Content Based Filtering
+4. Penjelasan tetang Kalsifikasi Gambar 
 
 
 
