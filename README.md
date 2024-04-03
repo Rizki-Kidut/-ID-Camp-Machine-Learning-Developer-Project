@@ -66,10 +66,23 @@ Dengan hasil tersebut submission saya mendapat nilai bintang 5 dari Dicoding ses
 
 Pada materi ini diajarkan pengembangan Machine Learning seperti:
 1. Penjelasan tentang Problem Framing, Pola pikir Machine Learning, Perumusan masalah dalam Machine Learning dan Memutuskan solusi dalam Machine Learning
-2. Penjelasan tentang Pembuatan Model Neural Network dengan library Tensorflow dan Keras, seperti proses pra-pemrosesan data utuk model, membuat dan melatih model, Pencegahan Overfitting dan Underfitting pada model, dan cara penggunaan call backs.
-3. Penjelasan dasar tentang Sistem Rekomendasi, seperti Pengenalan Sistem Rekomendasi, Collaborative Filtering dan Content Based Filtering
-4. Penjelasan tetang Kalsifikasi Gambar 
 
+2. Penjelasan tentang Pembuatan Model Neural Network dengan library Tensorflow dan Keras, seperti proses pra-pemrosesan data utuk model, membuat dan melatih model, Pencegahan Overfitting dan Underfitting pada model, dan cara penggunaan call backs.
+
+3. Penjelasan dasar tentang Sistem Rekomendasi, seperti Pengenalan Sistem Rekomendasi, Collaborative Filtering dan Content Based Filtering
+
+4. Penjelasan tentang Klasifikasi Gambar, pembuatan model Klasifikasi Gambar, proses Image Augmentation, proses transfer learning dengan model yang sudah jadi, dan Style Transfer.
+
+5. Penjelasan tentang Pembuatan model Natural Language Processing (NLP) dengan Tensorflow, pengenalan proses Tokenisasi dan Sequence, proses Embedding, Binary Text Classification, penggunaan Long Short-Term Memory (LSTM) Layer, serta Multiclass Classification.
+
+  Pada submodule NLP ini terdapat proyek submission yang harus dikerjakan. Adapun kriteria submission yang harus dipenuhi antara lain:
+  - Dataset yang digunakan bebas, minimal memiliki 1000 sampel.
+  - Menggunakan LSTM Layer dalam arsitektur model.
+  - Harus menggunakan model sequential.
+  - Validation set 20% dari total dataset.
+  - Harus menggunakan embedding.
+  - Harus menggunakan fungsi tokenizer.
+  - Akurasi minimal 75% pada train set dan validation set.
 
 
 
