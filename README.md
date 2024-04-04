@@ -66,16 +66,12 @@ Dengan hasil tersebut submission saya mendapat nilai bintang 5 dari Dicoding ses
 
 Pada materi ini diajarkan pengembangan Machine Learning seperti:
 1. Penjelasan tentang Problem Framing, Pola pikir Machine Learning, Perumusan masalah dalam Machine Learning dan Memutuskan solusi dalam Machine Learning
-
 2. Penjelasan tentang Pembuatan Model Neural Network dengan library Tensorflow dan Keras, seperti proses pra-pemrosesan data utuk model, membuat dan melatih model, Pencegahan Overfitting dan Underfitting pada model, dan cara penggunaan call backs.
-
 3. Penjelasan dasar tentang Sistem Rekomendasi, seperti Pengenalan Sistem Rekomendasi, Collaborative Filtering dan Content Based Filtering
-
 4. Penjelasan tentang Klasifikasi Gambar, pembuatan model Klasifikasi Gambar, proses Image Augmentation, proses transfer learning dengan model yang sudah jadi, dan Style Transfer.
-
 5. Penjelasan tentang Pembuatan model Natural Language Processing (NLP) dengan Tensorflow, pengenalan proses Tokenisasi dan Sequence, proses Embedding, Binary Text Classification, penggunaan Long Short-Term Memory (LSTM) Layer, serta Multiclass Classification.
 
-  Pada submodule NLP ini terdapat proyek submission yang harus dikerjakan. Adapun kriteria submission yang harus dipenuhi antara lain:
+    Pada submodule NLP ini terdapat proyek submission yang harus dikerjakan. Adapun kriteria submission yang harus dipenuhi antara lain:
   - Dataset yang digunakan bebas, minimal memiliki 1000 sampel.
   - Menggunakan LSTM Layer dalam arsitektur model.
   - Harus menggunakan model sequential.
@@ -84,6 +80,36 @@ Pada materi ini diajarkan pengembangan Machine Learning seperti:
   - Harus menggunakan fungsi tokenizer.
   - Akurasi minimal 75% pada train set dan validation set.
 
+  Hasil submission untuk pembuatan model NLP ini terdapat pada link berikut : [Submission pembuatan model NLP](https://github.com/Rizki-Kidut/-ID-Camp-Machine-Learning-Developer-Project/blob/4ae4d68a766f25628b46345868f701e60b1763e1/Belajar%20Pengembangan%20Machine%20Learning/1.%20Proyek%20Pertama%20-%20Model%20NLP%20dengan%20TensorFlow/NLP_Project_Submission.ipynb)
+
+  Detail dari submission saya ini adalah sebegai berikut:
+  - Dataset yang digunakan "bbc-text.csv" dari Kaggle yang diimport menggunakan Kaggle API.
+  - Dataset berjumlah 2225 baris, dengan 5 kategori yaitu "tech, business, sport, politics, entertainment".
+  - Model terdiri dari Embedding layer, LSTM layer, 2 Dense hidden layer, 2 Dropout layer dengan nilai 0.5, dan 1 output Dense layer.
+  - Nilai akurasi pada data trainning adalah 99% dan akurasi pada data validasi 90%.
+
+  Dengan hasil tersebut submission saya mendapat nilai bintang 5 dari Dicoding sesuai [hasil review](https://www.dicoding.com/academysubmissions/2718438)
+
+6. Penjelasan tentang Time Series, Pengenalan Time Series, Machine Learning pada Time Series, Data Preprocessing untuk Time Series, Metrik Evaluasi untuk Time Series dan Latihan pembuatan model Time Series dengan LSTM
+
+  Pada submodule Time Series ini terdapat proyek submission yang harus dikerjakan. Adapun kriteria submission yang harus dipenuhi antara lain:
+  - Dataset yang digunakan bebas, minimal memiliki 1000 sampel.
+  - Menggunakan LSTM Layer dalam arsitektur model.
+  - Harus menggunakan model sequential.
+  - Validation set 20% dari total dataset.
+  - Menggunakan Learning Rate pada Optimizer.
+  - Nilai MAE < 10% skala data.
+
+  Hasil submission untuk pembuatan model Time Series ini terdapat pada link berikut : [Submission pembuatan model Time Series](https://github.com/Rizki-Kidut/-ID-Camp-Machine-Learning-Developer-Project/blob/4ae4d68a766f25628b46345868f701e60b1763e1/Belajar%20Pengembangan%20Machine%20Learning/2.%20Proyek%20Kedua%20-%20Model%20ML%20dengan%20Data%20Time%20Series/Time_Series_Project.ipynb)
+
+  Detail dari submission saya ini adalah sebegai berikut:
+  - Dataset yang digunakan adalah Data Jena Climate dari Kaggle, dataset didownload dari Kaggle dan disimpan pada Drive.
+  - Dataset terdiri dari 420.551 data dengan 15 fitur.
+  - Model menggunakan 3 LSTM layer, 2 Dense hidden layer, 1 output Dense layer.
+  - Learning Rate yang digunakan pada Optimizer adalah 0.0001 dengan optimizer SGD.
+  - Nilai MAE pada data training adalah 0.5035 dan MAE pada data validasi adalah 0,4976.
+
+   Dengan hasil tersebut submission saya mendapat nilai bintang 5 dari Dicoding sesuai [hasil review](https://www.dicoding.com/academysubmissions/2734468)
 
 
 
