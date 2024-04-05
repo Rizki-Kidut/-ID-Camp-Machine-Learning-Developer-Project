@@ -111,7 +111,42 @@ Pada materi ini diajarkan pengembangan Machine Learning seperti:
 
    Dengan hasil tersebut submission saya mendapat nilai bintang 5 dari Dicoding sesuai [hasil review](https://www.dicoding.com/academysubmissions/2734468)
 
+7. Penjelasan tentang Reinforcement Learning, pengenalan Reinforcement Learning, Policy Search Algorithm, Deep Reinforcement Learning, TF-Agents dan Deep Q-Network.
+8. Penjelasan tentang Deployment model yang dibuat, format penyimpanan model, Pengenalan TensorFlow.js, Pengenalan TensorFlow.lite, Pengenalan TensorFlow Serving, Penjelasan Federated Learning, Data Pipelines dengan TensorFlow Data Services, Export Data ke Training Pipelines, Publikasi model ke TF-Hub, Pengenalan TensorBoard, Monitor Model dan Penjelasan Memperbarui Model yang telah di-deploy.
+
+Pada module ini terdapat Final Submission yang harus diselesaikan yaitu Image Classification Model Deployment. Adapun kriteria yang harus dipenuhi dari Final Submission ini adalah sebagai berikut:
+- Dataset bebas, minimal memiliki 1000 buah gambar.
+- Dataset tidak pernah digunakan pada submission sebelumnya.
+- Dataset dibagi menjadi 80% train set dan 20% test set.
+- Model menggunakan model sequential.
+- Model menggunakan Conv2D Maxpooling Layer.
+- Akurasi pada validation set minimal 80%.
+- Menggunakan Callback.
+- Membuat plot terhadap akurasi dan loss model.
+- Menyimpan model ke dalam format TF-Lite
+
+Hasil Final Submission yang saya kerjakan terdapat pada link berikut: [Final Submission](https://github.com/Rizki-Kidut/-ID-Camp-Machine-Learning-Developer-Project/blob/5e6c8e1b7be51119c94f64cd1c0bc4eb14e83342/Belajar%20Pengembangan%20Machine%20Learning/3.%20Final%20Proyek%20-%20Image%20Classification%20deploy/Machine_Learning_Intermediate_Final_Submission.ipynb)
+
+Detail dari Final Submission yang saya kerjakan adalah sebagai berikut:
+- Dataset yang digunakan adalah Animal Faces atau biasa dikenal Animal Faces-HQ (AFHQ).
+- Dataset terdiri dari 16.130 gambar dengan resolusi 512 x 512.
+- Dataset terdiri dari 3 kelas, yaitu Cat, Dog, dan Wildlife.
+- Model menggunakan fungsi Callback dengan syarat akurasi dan validasi akurasi 95%.
+- Model menggunakan 5 Conv2D layer dengan 5 MaxPooling2D layer, 1 Flatten layer, 1 Dense hidden layer, 1 Dropout layer dengan nilai 0.5, dan 1 output Dense layer.
+- Nilai akurasi dan validasi akurasi yang didapat diatas 96%.
+- Model disimpan dengan format TF-Lite.
+
+Dengan hasil seperti itu hasil submission saya mendapatkan bintang 4 dari Dicoding, karena resolusi dari gambar pada dataset seragam. Jika resolusi gambar tidak seragam, maka bintang 5 mungkin bisa saya dapatkan. [Hasil Review](https://www.dicoding.com/academysubmissions/2802298)
+
+Dengan hasil 2 bintang 5 pada Submission NLP dan Time Series, dan 1 bintang 4 pada Final Submission, saya terpilih untuk menjadi salah satu penerima beasiswa di Kelas Expert atau Kelas Mahir.
+
+### 5. Machine Learning Terapan
+
+Pada Module ini dijelaskan penerapan Machine Learning di Dunia Industri.
+1. Penjelasan tentang Machine Learning System Design, Perbedaan Machine Learning System Design di Dunia Riset dengan di Industri, Persyaratan Machine Learning System Design, Alur Proyek Machine Learning di Industri, Penjelasan Infrastruktur Machine Learning, penjelasan Data Engineering, dan penjelasan Model Development.
+2. Penjelasan tentang cara Menyusun Proyek Machine Learning, Ide portofolio Machine Learning, Struktur Proyek Machine Learning, penjelasan tentang Technical Writing dan Publikasi Machine Learning.
+3. Studi Kasus Pertama: Predictive Analysis. Pada sub module ini dijelaskan tahap demi tahap pembuatan model Predictive Analysis dari awal hingga akhir mulai dari penjelasan Predictive Analytics Lifecycle, Melakukan Business Understanding, Data Understanding, Data Loading, Exploratory Data Analysis (EDA) yaitu menangani missing values dan outliers, melakukan Univariate dan Multivariate Analysis, Data Preparation, Model Development dengan 3 algoritma yaitu K-Nearest Neighbor (KNN), Random Forest dan Algoritma Boosting, hingga akhirnya melakukan Evaluasi Model.
+4. Studi Kasus Kedua: Sentiment Analysis. Pada sub module ini dijelaskan pengenalan terhadap Natural Language Processing (NLP), Aplikasi NLP di dunia nyata, Teknik NLP, Tantangan data NLP, NLP pipeline, cara akuisi data NLP, Proses Text Cleaning dan Pre-processing, dan Feature Engineering untuk Representasi Teks. Setelah itu adalah studi kasus Sentiment Analysis dengan menggunakan Deep Learning menggunakan dataset dari IndoNLU dan menggunakan Library PyTorch dan menggunakan Pre-trained model Indobert yang dibangun berdasarkan architecture BERT. Selain menggunakan Pre-trained model, digunakan pula algortima SVM (Support Vector Machine) dengan feature engineering yang dilakuakn adalah TF-IDF.
 
 
-
-
+   
