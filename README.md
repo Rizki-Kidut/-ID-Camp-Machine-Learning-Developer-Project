@@ -60,7 +60,9 @@ Hasil submission saya adalah sebagai berikut:
 - Menggunakan 2 hidden layer Dropout layer dan Dense Layer
 - Menggunakan 3 teknik yang tidak diajarkan di kelas yaitu teknik Split Folder, Callback, dan Keras plot model
 
-Dengan hasil tersebut submission saya mendapat nilai bintang 5 dari Dicoding sesuai [hasil review](https://www.dicoding.com/academysubmissions/2352878), dan terpilih menjadi salah satu peserta pada Kelas Intermeddiate
+Dengan hasil tersebut submission saya mendapat nilai bintang 5 dari Dicoding sesuai [hasil review](https://www.dicoding.com/academysubmissions/2352878), dan terpilih menjadi salah satu peserta pada Kelas Intermediate
+
+[Sertifikat Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/2VX3609NNXYQ)
 
 ### 4. Belajar Pengembangan Machine Learning
 
@@ -140,6 +142,10 @@ Dengan hasil seperti itu hasil submission saya mendapatkan bintang 4 dari Dicodi
 
 Dengan hasil 2 bintang 5 pada Submission NLP dan Time Series, dan 1 bintang 4 pada Final Submission, saya terpilih untuk menjadi salah satu penerima beasiswa di Kelas Expert atau Kelas Mahir.
 
+[Sertfikat Belajar Pengembangan Machine Learning - Dicoding](https://www.dicoding.com/certificates/JMZVD3O3RZN9)
+
+[Sertifikat IDCamp Alur Belajar Machine Learning Developer di level menengah (intermediate)](https://drive.google.com/file/d/1ncBgq3xjNENCFeygobLmd0yWpsFdRkJv/view?usp=sharing)
+
 ### 5. Machine Learning Terapan
 
 Pada Module ini dijelaskan penerapan Machine Learning di Dunia Industri.
@@ -147,6 +153,19 @@ Pada Module ini dijelaskan penerapan Machine Learning di Dunia Industri.
 2. Penjelasan tentang cara Menyusun Proyek Machine Learning, Ide portofolio Machine Learning, Struktur Proyek Machine Learning, penjelasan tentang Technical Writing dan Publikasi Machine Learning.
 3. Studi Kasus Pertama: Predictive Analysis. Pada sub module ini dijelaskan tahap demi tahap pembuatan model Predictive Analysis dari awal hingga akhir mulai dari penjelasan Predictive Analytics Lifecycle, Melakukan Business Understanding, Data Understanding, Data Loading, Exploratory Data Analysis (EDA) yaitu menangani missing values dan outliers, melakukan Univariate dan Multivariate Analysis, Data Preparation, Model Development dengan 3 algoritma yaitu K-Nearest Neighbor (KNN), Random Forest dan Algoritma Boosting, hingga akhirnya melakukan Evaluasi Model.
 4. Studi Kasus Kedua: Sentiment Analysis. Pada sub module ini dijelaskan pengenalan terhadap Natural Language Processing (NLP), Aplikasi NLP di dunia nyata, Teknik NLP, Tantangan data NLP, NLP pipeline, cara akuisi data NLP, Proses Text Cleaning dan Pre-processing, dan Feature Engineering untuk Representasi Teks. Setelah itu adalah studi kasus Sentiment Analysis dengan menggunakan Deep Learning menggunakan dataset dari IndoNLU dan menggunakan Library PyTorch dan menggunakan Pre-trained model Indobert yang dibangun berdasarkan architecture BERT. Selain menggunakan Pre-trained model, digunakan pula algortima SVM (Support Vector Machine) dengan feature engineering yang dilakuakn adalah TF-IDF.
+
+**Proyek Pertama: Membuat Model Predictive Analysis** 
+Setelah mempelajari tentang studi kasus Predictive Analysis, pada Proyek ini saya diminta untuk Membuat Model Predictive Analysis dengan kriteria sebagai berikut:
+- Project merupakan hasil pekerjaan sendiri
+- Project belum pernah dipublikasikan dimanapun
+- Dataset adalah data kuantitatif (minimal 500 sampel data)
+- Memberikan dokumentasi pada text cell pada notebook (.ipynb)
+- Menentukan solusi permasalahan menggunakan pendekatan Machine Learning atau Deep Learning dengan memilih salah satu dari penyelesaian berikut:
+      1. Klasifikasi
+      2. Regresi
+      3. Clustering
+      4. Time series dan forecasting
+- Membuat draf laporan proyek machine learning yang menjelaskan alur proyek.
 
 
    
