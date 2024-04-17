@@ -165,7 +165,13 @@ Setelah mempelajari tentang studi kasus Predictive Analysis, pada Proyek ini say
       2. Regresi
       3. Clustering
       4. Time series dan forecasting
-- Membuat draf laporan proyek machine learning yang menjelaskan alur proyek.
+- Membuat draf laporan proyek machine learning yang menjelaskan alur proyek mulai dari pemilihan domain permasalahan (problem domain), data understanding, data preparation, modeling, hingga tahap evaluasi.
+
+Detail dari Proyek yang saya kerjakan adalah sebagai berikut:
+- Dataset yang digunakan adalah UCI Heart Disease Dataset dari Kaggle.
+- Dataset terdiri dari 16 Fitur dengan 14 Fitur yang terkait dengan Heart Disesease.
+- Dataset memiliki 920 baris.
+- 
 
 
    
