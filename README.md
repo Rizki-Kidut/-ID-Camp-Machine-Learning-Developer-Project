@@ -180,6 +180,28 @@ Detail dari Proyek yang saya kerjakan adalah sebagai berikut:
   4. Ada Boost Classifier
   5. XGB Classifier
 - Dengan menggunakan bantuan Grid Search CV, akan dicari algoritma dengan nilai akurasi tertinggi.
+- Model yang terbaik adalah model dengan algoritma Ada Boost Classifier, dengan nilai akurasi 74%.
+- Laporan telah dibuatkan dengan format Markdown, dan diUpload pada platform GitHub. [Link Laporan](https://github.com/Rizki-Kidut/Predictive-Analytics---UCI-Heart-Disease-Data)
 
+Dengan hasil seperti itu hasil project pertama saya mendapatkan bintang 5 dari Dicoding. [Hasil Review](https://www.dicoding.com/academysubmissions/2906828)
+
+5. Studi Kasus Ketiga : Computer Vision. Pada submodule ini dijelaskan pengenalan Computer Vision, Penerapan Computer Vision di Industri, Teknik pengenalan objek (Object Recognition), Contoh Pembuatan Model Klasifikasi Rambu Lalu Lintas, Pengenalan Object Detection, Teknik teknik Object Detection, Detector Wajah pada Gambar dan contoh pembuatan Model Detector Wajah dengan Algoritma Haar Cascade.
+
+6. Stufi Kasus Keempat : Sistem Rekomendasi. Pada submodule ini dijelaskan pengenalan sistem rekomendasi, alasan mengapa sistem rekomendasi penting, Taksonomi Sistem Rekomendasi, Penjelasan Content Based Filtering, Collaborative Based Filtering, Hybrid System Recomender, Data untuk sistem rekomendasi, Similarity Measure, Latihan membuat proyek sistem rekomendasi dengan dataset "Restaurant and Consumer" dari Kaggle.
+
+**Proyek Akhir: Membuat Model Sistem Rekomendasi**
+Setelah mempelajari tentang studi kasus Model Sistem Rekomendasi, pada Proyek ini saya diminta untuk Membuat Model Sistem Rekomendasi dengan kriteria sebagai berikut:
+- Project merupakan hasil pekerjaan sendiri.
+- Project belum pernah dipublikasikan dimanapun.
+- Dataset bebas, asalkan bisa digunakan untuk sistem rekomendasi.
+- Memberikan dokumentasi menggunakan text cell pada notebook (.ipynb) untuk menjelaskan setiap tahapan proyek.
+- Menentukan solusi permasalahan dengan memilih pendekatan berikut:
+    1. Content-based Filtering
+    2. Collaborative Filtering
+- Membuat draf laporan proyek machine learning yang menjelaskan alur proyek mulai dari pemilihan domain permasalahan (problem domain), data understanding, data preparation, modeling, hingga tahap evaluasi.
+
+Detail dari project yang saya kerjakan adalah sebagai berikut:
+- Dataset yang digunakan adalah Steam User Dataset dan Steam Game Dataset dari Kaggle.
+- Steam User Dataset 
 
    
