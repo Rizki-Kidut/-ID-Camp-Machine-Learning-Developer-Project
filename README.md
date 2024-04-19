@@ -171,7 +171,15 @@ Detail dari Proyek yang saya kerjakan adalah sebagai berikut:
 - Dataset yang digunakan adalah UCI Heart Disease Dataset dari Kaggle.
 - Dataset terdiri dari 16 Fitur dengan 14 Fitur yang terkait dengan Heart Disesease.
 - Dataset memiliki 920 baris.
-- 
+- Dataset memiliki banyak missing values yang ditangani dengan metode Iterative Imputer menggunakan algoritma Random Forest Regressor dan Random Forest Classifier.
+- Masalah yang akan ditangani adalah Multiclass Classification, untuk menentukan apakah dengan kondisi tertentu pasien didiagnosa memiliki penyakit jantung atau tidak. Terdapat 4 kriteria target, dimana 0 tidak memiliki penyakit jantung dan 1-3 memiliki penyakit jantung.
+- Model dibuat dengan menggunakan 5 algoritma yaitu:
+  1. Random Forest Classifier
+  2. K-Neightbors Classifier
+  3. Gaussian NB
+  4. Ada Boost Classifier
+  5. XGB Classifier
+- Dengan menggunakan bantuan Grid Search CV, akan dicari algoritma dengan nilai akurasi tertinggi.
 
 
    
