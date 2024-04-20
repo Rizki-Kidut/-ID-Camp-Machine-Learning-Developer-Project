@@ -187,7 +187,7 @@ Dengan hasil seperti itu hasil project pertama saya mendapatkan bintang 5 dari D
 
 5. Studi Kasus Ketiga : Computer Vision. Pada submodule ini dijelaskan pengenalan Computer Vision, Penerapan Computer Vision di Industri, Teknik pengenalan objek (Object Recognition), Contoh Pembuatan Model Klasifikasi Rambu Lalu Lintas, Pengenalan Object Detection, Teknik teknik Object Detection, Detector Wajah pada Gambar dan contoh pembuatan Model Detector Wajah dengan Algoritma Haar Cascade.
 
-6. Stufi Kasus Keempat : Sistem Rekomendasi. Pada submodule ini dijelaskan pengenalan sistem rekomendasi, alasan mengapa sistem rekomendasi penting, Taksonomi Sistem Rekomendasi, Penjelasan Content Based Filtering, Collaborative Based Filtering, Hybrid System Recomender, Data untuk sistem rekomendasi, Similarity Measure, Latihan membuat proyek sistem rekomendasi dengan dataset "Restaurant and Consumer" dari Kaggle.
+6. Studi Kasus Keempat : Sistem Rekomendasi. Pada submodule ini dijelaskan pengenalan sistem rekomendasi, alasan mengapa sistem rekomendasi penting, Taksonomi Sistem Rekomendasi, Penjelasan Content Based Filtering, Collaborative Based Filtering, Hybrid System Recomender, Data untuk sistem rekomendasi, Similarity Measure, Latihan membuat proyek sistem rekomendasi dengan dataset "Restaurant and Consumer" dari Kaggle.
 
 **Proyek Akhir: Membuat Model Sistem Rekomendasi**
 Setelah mempelajari tentang studi kasus Model Sistem Rekomendasi, pada Proyek ini saya diminta untuk Membuat Model Sistem Rekomendasi dengan kriteria sebagai berikut:
@@ -202,6 +202,22 @@ Setelah mempelajari tentang studi kasus Model Sistem Rekomendasi, pada Proyek in
 
 Detail dari project yang saya kerjakan adalah sebagai berikut:
 - Dataset yang digunakan adalah Steam User Dataset dan Steam Game Dataset dari Kaggle.
-- Steam User Dataset 
+- Steam User Dataset terdiri dari 5 fitur, dan 200.000 baris, setelah dilakukan format ulang untuk mewakili interaksi pengguna yang unik, jumlah data menjadi 128.804 data.
+- Steam Game Dataset terdiri dari 20 fitur dan 40.832 baris data.
+- Model Sistem Rekomendasi yang dibuat adalah Content Based Filtering dan Collaborative Filtering.
+- Model Content Based Filtering dibuat menggunakan TF-IDF Vectorizer dan Cosine Similarity, dan dibuatkan 3 jenis rekomendasi, yaitu rekomendasi berdasarkan genre, rekomendasi berdasarkan popular tags, dan rekomendasi berdasarkan game details.
+- Model Collabprative Filtering dibuat menggunakan teknik embedding dengan keras 
+- Nilai evaluasi untuk Content Based Filtering menggunakan Precission, dengan nilai 100%
+- NIlai evaluasi untuk Collaborative Filtering menggunakan RMSE (Root-Mean Squarred Error) dengan error akhir sebesar 0.3721 dan error pada data validasi sebesar 0.6663.
+- Kedua model dapat menghasilkan rekomendasi yang sesuai.
+- Laporan untuk proyek rekomendasi telah dibuatkan dengan format Markdown, dan diUpload pada platform GitHub. [Link Laporan](https://github.com/Rizki-Kidut/Recomendation-System---Steam-Game/tree/main)
+
+Dengan hasil seperti itu hasil project akhir saya mendapatkan bintang 5 dari Dicoding. [Hasil Review](https://www.dicoding.com/academysubmissions/2950238)
+
+Dengan hasil 5 bintang, untuk kedua proyek submission tersebut saya dinyatakan lulus dari kelas Machine Learning Terapan.
+
+[Sertfikat Machine Learning Terapan - Dicoding](https://www.dicoding.com/certificates/NVP77RENWPR0)
+
+
 
    
