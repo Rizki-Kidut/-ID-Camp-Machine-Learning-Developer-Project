@@ -152,7 +152,7 @@ Pada Module ini dijelaskan penerapan Machine Learning di Dunia Industri.
 1. Penjelasan tentang Machine Learning System Design, Perbedaan Machine Learning System Design di Dunia Riset dengan di Industri, Persyaratan Machine Learning System Design, Alur Proyek Machine Learning di Industri, Penjelasan Infrastruktur Machine Learning, penjelasan Data Engineering, dan penjelasan Model Development.
 2. Penjelasan tentang cara Menyusun Proyek Machine Learning, Ide portofolio Machine Learning, Struktur Proyek Machine Learning, penjelasan tentang Technical Writing dan Publikasi Machine Learning.
 3. Studi Kasus Pertama: Predictive Analysis. Pada sub module ini dijelaskan tahap demi tahap pembuatan model Predictive Analysis dari awal hingga akhir mulai dari penjelasan Predictive Analytics Lifecycle, Melakukan Business Understanding, Data Understanding, Data Loading, Exploratory Data Analysis (EDA) yaitu menangani missing values dan outliers, melakukan Univariate dan Multivariate Analysis, Data Preparation, Model Development dengan 3 algoritma yaitu K-Nearest Neighbor (KNN), Random Forest dan Algoritma Boosting, hingga akhirnya melakukan Evaluasi Model.
-4. Studi Kasus Kedua: Sentiment Analysis. Pada sub module ini dijelaskan pengenalan terhadap Natural Language Processing (NLP), Aplikasi NLP di dunia nyata, Teknik NLP, Tantangan data NLP, NLP pipeline, cara akuisi data NLP, Proses Text Cleaning dan Pre-processing, dan Feature Engineering untuk Representasi Teks. Setelah itu adalah studi kasus Sentiment Analysis dengan menggunakan Deep Learning menggunakan dataset dari IndoNLU dan menggunakan Library PyTorch dan menggunakan Pre-trained model Indobert yang dibangun berdasarkan architecture BERT. Selain menggunakan Pre-trained model, digunakan pula algortima SVM (Support Vector Machine) dengan feature engineering yang dilakuakn adalah TF-IDF.
+4. Studi Kasus Kedua: Sentiment Analysis. Pada sub module ini dijelaskan pengenalan terhadap Natural Language Processing (NLP), Aplikasi NLP di dunia nyata, Teknik NLP, Tantangan data NLP, NLP pipeline, cara akuisi data NLP, Proses Text Cleaning dan Pre-processing, dan Feature Engineering untuk Representasi Teks. Setelah itu adalah studi kasus Sentiment Analysis dengan menggunakan Deep Learning menggunakan dataset dari IndoNLU dan menggunakan Library PyTorch dan menggunakan Pre-trained model Indobert yang dibangun berdasarkan architecture BERT. Selain menggunakan Pre-trained model, digunakan pula algortima SVM (Support Vector Machine) dengan feature engineering yang dilakukan adalah TF-IDF.
 
 **Proyek Pertama: Membuat Model Predictive Analysis** 
 Setelah mempelajari tentang studi kasus Predictive Analysis, pada Proyek ini saya diminta untuk Membuat Model Predictive Analysis dengan kriteria sebagai berikut:
@@ -166,6 +166,8 @@ Setelah mempelajari tentang studi kasus Predictive Analysis, pada Proyek ini say
       3. Clustering
       4. Time series dan forecasting
 - Membuat draf laporan proyek machine learning yang menjelaskan alur proyek mulai dari pemilihan domain permasalahan (problem domain), data understanding, data preparation, modeling, hingga tahap evaluasi.
+
+Hasil Project pertama yang saya kerjakan terdapat pada link berikut: [Proyek Pertama : Predictive Analysis](https://github.com/Rizki-Kidut/Predictive-Analytics---UCI-Heart-Disease-Data/blob/main/Submission_Predictive_Analytics_Heart_Disesase.ipynb)
 
 Detail dari Proyek yang saya kerjakan adalah sebagai berikut:
 - Dataset yang digunakan adalah UCI Heart Disease Dataset dari Kaggle.
@@ -200,6 +202,8 @@ Setelah mempelajari tentang studi kasus Model Sistem Rekomendasi, pada Proyek in
     2. Collaborative Filtering
 - Membuat draf laporan proyek machine learning yang menjelaskan alur proyek mulai dari pemilihan domain permasalahan (problem domain), data understanding, data preparation, modeling, hingga tahap evaluasi.
 
+Hasil Project akhir yang saya kerjakan terdapat pada link berikut: [Proyek Akhir : Sistem Rekomendasi](https://github.com/Rizki-Kidut/Recomendation-System---Steam-Game/blob/main/Recomendation_System_Steam_Game.ipynb)
+
 Detail dari project yang saya kerjakan adalah sebagai berikut:
 - Dataset yang digunakan adalah Steam User Dataset dan Steam Game Dataset dari Kaggle.
 - Steam User Dataset terdiri dari 5 fitur, dan 200.000 baris, setelah dilakukan format ulang untuk mewakili interaksi pengguna yang unik, jumlah data menjadi 128.804 data.
@@ -217,6 +221,10 @@ Dengan hasil seperti itu hasil project akhir saya mendapatkan bintang 5 dari Dic
 Dengan hasil 5 bintang, untuk kedua proyek submission tersebut saya dinyatakan lulus dari kelas Machine Learning Terapan.
 
 [Sertfikat Machine Learning Terapan - Dicoding](https://www.dicoding.com/certificates/NVP77RENWPR0)
+
+Demikianlah perjalanan panjang saya dalam Program IDCamp 2022 - Machine Learning Developer path.
+
+Terima kasih IDCamp, Indosat, dan Dicoding untuk kesempatan yang diberikan.
 
 
 
